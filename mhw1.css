@@ -8,6 +8,7 @@ body{
     background: #000;
     color: #fff;
 }
+/*---header---*/
 .header{
     width: 100%;
     height: 100vh;
@@ -72,6 +73,7 @@ nav button:hover {
     font-weight: 400;
     margin-bottom: 20px;
 }
+/*---email---*/
 .email-signup{
     background: #fff;
     border-radius: 4px;
@@ -95,7 +97,7 @@ nav button:hover {
     cursor: pointer;
     padding: 15px 30px;
 }
-
+/*---features---*/
 .features{
     padding: 50px 12%;
     font-size: 22px;
@@ -130,7 +132,7 @@ nav button:hover {
     font-size: 20px;
     line-height: 1.5;
 }
-
+/*---faq---*/
 .faq{
     padding: 10px 12%;
     text-align: center;
@@ -141,7 +143,7 @@ nav button:hover {
     font-size: 40px;
     margin-bottom: 30px;
 }
-
+/*---accordion---*/
 .accordion{
     margin: 60px auto;
     width: 100%;
@@ -189,3 +191,49 @@ input[type="radio"]{
 .accordion input[type="radio"]:checked + label::after{
     transform: rotate(135deg);
 }
+/*---faq---*/
+.faq .email-signup{
+    max-width: 600px;
+    margin: 20px auto 60px;
+}
+.faq small{
+    font-size: 13px;
+}
+/*---footer---*/
+.footer{
+    padding: 50px 15% 10px;
+    border-top: 6px solid #333;
+    color: #777;
+}
+.footer h2{
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.footer .col{
+    flex-basis: 25%;
+    flex-grow: 1;
+    margin-bottom: 20px;
+}
+.footer .col a{
+    display: block;
+    text-decoration: none;
+    color: #777;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.footer .row{
+    align-items: flex-start;
+    padding: 10px 0;
+}
+.footer .language-btn{
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 3px;
+}
+.copyright-txt{
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+/*---media-query-small-screen---*/
