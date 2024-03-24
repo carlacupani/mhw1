@@ -102,7 +102,7 @@ nav button:hover {
     padding: 15px 30px;
 }
 /*---features---*/
-.features{
+section{
     border-top: 6px solid #333;
     padding: 50px 12%;
     font-size: 22px;
@@ -128,12 +128,12 @@ nav button:hover {
     height: auto;
     margin: auto;
 }
-.features h2{
+section h2{
     font-size: 50px;
     font-weight: 900;
     margin-bottom: 20px;
 }
-.features p {
+section p {
     font-size: 20px;
     font-weight: 400;
     line-height: 1.5;
@@ -145,8 +145,8 @@ nav button:hover {
     font-size: 18px;
 }
 .faq h2{
-    font-weight: 500;
-    font-size: 40px;
+    font-weight: 900;
+    font-size: 48px;
     margin-bottom: 30px;
 }
 /*---accordion---*/
@@ -165,8 +165,9 @@ nav button:hover {
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-    font-size: 18px;
-    font-weight: 500;
+    font-stretch: 100%;
+    font-size: 24px;
+    font-weight: 400;
     background: #303030;
     margin-bottom: 2px;
     cursor: pointer;
