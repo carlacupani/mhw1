@@ -99,6 +99,7 @@ nav button:hover {
 }
 /*---features---*/
 .features{
+    border-top: 6px solid #333;
     padding: 50px 12%;
     font-size: 22px;
 }
