@@ -1,7 +1,7 @@
 📌 mhw1
 Benvenuto/a in mhw1! Questo progetto è stato realizzato come primo esercizio di prova in itinere per il corso di we programming all'università di Catania.
 
-🔗 Guarda il sito live qui: https://tuo-username.github.io/mhw1/
+🔗 Guarda il sito live qui: https://carlacupani.github.io/mhw1/
 
 📂 Contenuti della repository
 index.html → Pagina principale del sito
