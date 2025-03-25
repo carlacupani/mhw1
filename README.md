@@ -1,7 +1,7 @@
 # 🌐 mhw1
 
 ## 📢 Descrizione  
-Benvenuto/a in **mhw1**! Questo progetto è stato realizzato come primo esercizio di prova in itinere per il corso di we programming all'università di Catania.
+Benvenuto/a in **mhw1**! Questo progetto è stato realizzato come primo esercizio di prova in itinere per il corso di Web Programming di Ingegneria Informatica all'Università di Catania.
 
 ## 🔗 Live Demo 
 Il progetto è disponibile online! Puoi vederlo in azione cliccando qui:  
